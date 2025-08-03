@@ -2,9 +2,9 @@ import requests
 
 from utils.mietfilter import df_to_dictionary
 
-TOKEN = "7118489803:AAHx7kogPjh4OEyj01xUIfdPSOprVYUvMbI"
+TOKEN = "use your token ID"
 BOT_USERNAME ="@wohnungalert_bot"
-CHAT_ID = "6492169575"
+CHAT_ID = "use your chat ID"
 
 def send_message_telegram():
 
@@ -18,5 +18,4 @@ def send_message_telegram():
     
 send_message_telegram()
 
-class 
 
